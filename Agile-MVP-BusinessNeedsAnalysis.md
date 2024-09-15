@@ -1,6 +1,6 @@
 # MVP \- Analyze the Business Needs
 
-Team Name:  AnimalShelter  
+**Team Name**:  AnimalShelter  
 Team Members: Ava McIntosh, Hunter McIntosh, Cara Zozokos, Gani Sagiev  
 Project Name: Animal Shelter Pro
 
